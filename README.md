@@ -9,4 +9,4 @@ Hi 👋, I'm Sowmya Rani M E
 ---
 
 ## 🔗 Connect with me  
-- [GitHub] github.com/SowmyaRani01
+- [GitHub] https://github.com/SowmyaRani01#-connect-with-me
