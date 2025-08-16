@@ -9,5 +9,5 @@ Hi 👋, I'm Sowmya Rani M E
 ---
 
 ## 🔗 Connect with me  
-- [GitHub] https://github.com/SowmyaRani01#-connect-with-me
+- [GitHub] https://github.com/SowmyaRani01
   
